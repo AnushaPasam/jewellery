@@ -1,0 +1,224 @@
+.logo{
+    width: 150px;;
+    height: 60px;;
+    padding: 5px;
+
+}
+.one{
+    display: inline-block;
+}
+
+
+#go:hover{
+    color:red;
+
+}
+#go{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    border:0px ;
+    display:inline-block;
+    
+
+    
+}
+.banner{
+    margin-top: 100px;
+}
+.img3{
+
+    height:450px;
+    width:1400px;
+}
+.img2{
+  background-color: grey;
+  height:450px;
+  width:1400px;  
+}
+.head1{
+    font-weight: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size:28px;
+    
+}
+.carding{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: #e5eae5;
+}
+.cardimage1{
+    width:87px;
+    height:90px;
+    
+}
+.chead{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size:25px;
+    font-weight: bold;
+    padding-top:10px;
+
+    
+}
+.para2{
+    font-weight: bold;
+}
+.cardimage2{
+    width:90px;
+    height:90px;
+}
+.collectionhead{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#323f4b;
+    font-size: 28px;
+    font-weight: 700px;
+}
+.bgimage2{
+    background-color:whitesmoke ;
+
+}
+.Collectioncard{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-radius:16px;
+    border-width: 1px;
+    border-color:white
+
+}
+
+
+.Collectioncard:hover{
+    background-color: rgb(243, 237, 227);
+    border-color: rgb(243,237,227);
+    box-shadow: inset;
+    
+}
+
+.paraline{
+    text-align: center;
+}
+
+
+.parahead{
+    text-align: center;
+    font-display: inline;
+    color:#323f4b;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+
+}
+ .link{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:14px;
+    text-align: left;
+    text-decoration: none;
+
+}
+.link:hover{
+    text-decoration: none;
+}
+.link1{
+    color:white;
+    background-color: red;
+    border:none;
+    font-size:15px;
+    font-weight:700px;
+    text-align: center;
+    padding:10px;
+    margin-top:30px ;
+    margin-left: 500px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+.link1:hover{
+ text-decoration: none;
+ background-color: grey;
+ color:black;
+ 
+
+}
+.bgimg4{
+    background-color:white;
+}
+.abouthead{
+   
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#323f4b;
+    font-size: 28px;
+    font-weight: 700px;
+}
+.aboutpara{
+    color: black;
+    font-weight: 16px;
+   
+}
+
+.bgimage3{
+    background-color: white;
+    
+}
+.paymenthead{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#323f4b;
+    font-size: 28px;
+    font-weight: 700px;
+}
+.paymentimg{
+    width:300px;
+
+}
+.paypara{
+    
+    color: black;
+    font-weight: 16px;
+   
+}
+.cstbutton{
+    color:white;
+    background-color: red;
+    width:130px;
+    height:45px;
+    border-width: 0;
+    border-radius:8px;
+    margin-right:10px;
+}
+.cstbutton:hover{
+    background-color: grey;
+    color:black;
+    text-decoration: none;
+}
+.payimg{
+    width:50px;
+    height:50px;
+    margin:28px;
+    display:inline;
+}
+#contact{
+    padding-bottom:4rem;
+    background-color: grey;
+
+}
+.socialicons{
+    font-size: 40px;
+    cursor:pointer;
+
+}
+.template{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/03/29/33/53/1000_F_329335378_92dj7LzvbjqCEI0k3sDlcKe4g9pdQwkP.jpg");
+    
+
+
+}  
